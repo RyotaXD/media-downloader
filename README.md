@@ -11,6 +11,6 @@ Sebuah script  berbasis CLI (Command Line Interface) Python yang dirancang khusu
 ### 🛠️ Cara Instalasi di Termux:
 ```
 termux-setup-storage
-git clone https://github.com/RyotaXDD/media-downloader
+git clone https://github.com/RyotaXD/media-downloader
 cd media-downloader
 python media.py
